@@ -5,8 +5,8 @@ alias ll='ls -la'
 alias y='yazi'
 
 # Directory shortcuts
-alias cdc='cd ~/Documents/code'
-alias cda='cd ~/Documents/code/ansible'
+alias cdc='cd ~/code'
+alias cda='cd ~/code/ansible'
 
 # Git shortcuts
 alias gs='git status'
